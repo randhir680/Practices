@@ -1,1 +1,2 @@
-This is some dummy text
+It is some dummy text, hello 
+Adding in second commit
